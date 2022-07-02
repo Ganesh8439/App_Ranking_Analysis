@@ -1,6 +1,6 @@
 # App_Ranking_Analysis
 # Summary
-The dataset consists of the ranking of different apps with the app id, short description, long description, date, date of Last description change	and the keyword. We have to various factors that affect the app rankings.
+The dataset consists of the ranking of different apps with the app id, short description, long description, date, date of Last description change	and the keyword. By data analysis various factors that affect the app rankings are found.
 # Methods
 ## Pre-processing
 * The short description and long description are text that may contain many errors, hence we clean the texts using a user defined function **clean** which removes all the special characters, numbers, it converts the whole string into lowercase
