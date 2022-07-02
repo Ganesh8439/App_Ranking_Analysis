@@ -19,5 +19,5 @@ The dataset consists of the ranking of different apps with the app id, short des
 * App Id also plays an role in determine the ranking of the app
 * Date of last description change doesnt seem to affect the ranking of the app
 * Date seems to affect the ranking of the app
-Rank vs Factor
+* Rank vs Factor
 ![picture alt](scatter_plot.png)
